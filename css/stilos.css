@@ -1,0 +1,30 @@
+h2,h3{
+    text-align: center;
+}
+.textoInicio{
+    text-align: center;
+    color: gray;  
+}
+
+.divImagen2 {
+    display: flex;
+    justify-content: center;
+}
+.texto2{
+    text-align: center;
+    color: gray;
+}
+.button{
+    margin-left: 500px;
+}
+
+
+.divLinks{
+    text-align: center;
+
+}
+
+.texto3{
+    margin-left: 500px;
+    color: gray;
+}
